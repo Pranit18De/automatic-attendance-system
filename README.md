@@ -10,8 +10,7 @@ windows:
 3.Attendance Window
 
 ## FACE EXTRACTION & FACE DETECTION:
-The face detection and extraction part has been executed by the OpenCv(cv2) module of Python. Haar Casscade Classifiers have been used for 
-frontal face detection.
+The face detection and extraction part has been executed by the OpenCv(cv2) module of Python. Haar Casscade Classifiers have been used for frontal face detection.
 
 ## DATABASE HANDLING:
 The database handling i.e. storing student's information and attendance has been done in this project using sqlite3 module in Python.
@@ -41,9 +40,16 @@ What things you need to install the software and how to install them
  * [Python](https://www.python.org/) - The programming language used
  * [PyQt4](https://pypi.python.org/pypi/PyQt4) - GUI Management
  * [cv2](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html) - Face Recognisation
+ * [PIL](https://pillow.readthedocs.io/en/5.3.x/) - Image Enhancement
  
-## Contributing
-We will update the details soon.
+ 
+## Contributors
+Project Head- [Shubham Kumar Singh Rajput](https://github.com/mesksr)
+Co-ordinators:
+[Dilpreet Singh Chawla](https://github.com/iamdsc) 
+[Pranit De](https://github.com/Pranit18De)
+[Omkar Ajnadkar](https://github.com/Omkar-Ajnadkar)
+[Pratik Gupta]
  
 ## Versioning
 We use [GitHub](http://github.com/) for versioning. 
